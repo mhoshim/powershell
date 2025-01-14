@@ -1,4 +1,4 @@
-Welcome to the CDFC Script. This script will automate the following tasks:
+This script will automate the following tasks:
 
 - Enable Auto-Login
 - Rename the computer
